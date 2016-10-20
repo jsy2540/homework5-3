@@ -5,7 +5,7 @@ public class ExamForWhileStars {
 		Scanner in = new Scanner(System.in); 
 		int flag = 0;
 		
-		while(flag != 6){
+		while(flag != 5){
 			System.out.println("1. 정사각형 벌찍기");
 			System.out.println("2. 직각삼각 별찍기");
 			System.out.println("3. 이등변삼각형 별찍기");
